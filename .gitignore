@@ -1,9 +1,10 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
+#OS X
+.DS_Store
+Icon?
 
-# Project property files
-.actionScriptProperties
-.flexProperties
-.settings/
-.project
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
